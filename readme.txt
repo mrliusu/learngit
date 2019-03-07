@@ -13,4 +13,8 @@ this is branch feat.
 
 this is no-ff branch dev.
 
+
 ok now have no bug.
+
+i will fix some bugs;
+
