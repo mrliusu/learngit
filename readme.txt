@@ -1,16 +1,23 @@
-git is a version control system.
-git is a freee software.
+others chenge
+
+ok now i change the file, and commit to git
+
+
 do some change.
 one
 two
 three
+
 create a branch is quikly.
+dev dev dev dev
 
 
-this is branch from master.
+this is test branch
 
-this is branch feat.
+other s chenge
 
+
+<<<<<<< HEAD
 this is no-ff branch dev.
 
 
@@ -18,3 +25,8 @@ ok now have no bug.
 
 i will fix some bugs;
 
+=======
+i change my thingssssssssssssssss
+=======
+i change something
+>>>>>>> test
