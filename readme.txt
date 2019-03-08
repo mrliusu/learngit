@@ -5,10 +5,5 @@ one
 two
 three
 create a branch is quikly.
-
-
-this is branch from master.
-
-this is branch feat.
-
-this is no-ff branch dev.
+dev dev dev dev
+this is test branch
