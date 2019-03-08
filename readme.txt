@@ -21,3 +21,6 @@ i will fix some bugs;
 
 i change some thing in new branch.
 
+-----change by others-----
+ok now, others change the file.
+
