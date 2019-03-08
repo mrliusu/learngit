@@ -18,3 +18,6 @@ ok now have no bug.
 
 i will fix some bugs;
 
+
+i change some thing in new branch.
+
