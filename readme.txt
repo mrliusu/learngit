@@ -1,5 +1,4 @@
-git is a version control system.
-git is a freee software.
+others chenge
 
 ok now i change the file, and commit to git
 
@@ -19,3 +18,5 @@ other s chenge
 
 
 i change my thingssssssssssssssss
+=======
+i change something
